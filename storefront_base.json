@@ -1,0 +1,246 @@
+{
+  "name": "NextUI Officially Unofficial",
+  "url": "https://github.com/scalysoot/nextui-pak-store",
+  "paks": [
+    {
+      "storefront_name": "Pak Store",
+      "repo_url": "https://github.com/scalysoot/nextui-pak-store",
+      "categories": []
+    },
+    {
+      "storefront_name": "Mortar",
+      "repo_url": "https://github.com/UncleJunVIP/Mortar",
+      "categories": [
+        "ROM Management"
+      ]
+    },
+    {
+      "storefront_name": "Game Manager",
+      "repo_url": "https://github.com/UncleJunVIP/nextui-game-manager",
+      "categories": [
+        "ROM Management"
+      ]
+    },
+    {
+      "storefront_name": "Screenshot Monitor",
+      "repo_url": "https://github.com/josegonzalez/minui-screenshot-monitor-pak",
+      "categories": [
+        "Media"
+      ]
+    },
+    {
+      "storefront_name": "Dropbear Server (SSH)",
+      "repo_url": "https://github.com/josegonzalez/minui-dropbear-server-pak",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+       "storefront_name": "SFTPGO Server",
+       "repo_url": "https://github.com/josegonzalez/minui-sftpgo-server-pak",
+       "categories": [
+         "File Management"
+       ]
+     },
+    {
+      "storefront_name": "Dufs Server",
+      "repo_url": "https://github.com/josegonzalez/minui-dufs-server-pak",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+      "storefront_name": "File Browser",
+      "repo_url": "https://github.com/josegonzalez/minui-filebrowser-pak",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+      "storefront_name": "FTP Server",
+      "repo_url": "https://github.com/josegonzalez/minui-ftpserver-pak",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+      "storefront_name": "Syncthing",
+      "repo_url": "https://github.com/josegonzalez/minui-syncthing-pak",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+      "storefront_name": "USB Mass Storage",
+      "repo_url": "https://github.com/josegonzalez/trimui-brick-usb-mass-storage-pak",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+      "storefront_name": "Developer",
+      "repo_url": "https://github.com/josegonzalez/minui-developer-pak",
+      "categories": [
+        "Developer Tools"
+      ]
+    },
+    {
+      "storefront_name": "Remote Terminal",
+      "repo_url": "https://github.com/josegonzalez/minui-remote-terminal-pak",
+      "categories": [
+        "Developer Tools"
+      ]
+    },
+    {
+      "storefront_name": "Report",
+      "repo_url": "https://github.com/josegonzalez/minui-report-pak",
+      "categories": [
+        "Developer Tools"
+      ]
+    },
+    {
+      "storefront_name": "Terminal",
+      "repo_url": "https://github.com/josegonzalez/minui-terminal-pak",
+      "categories": [
+        "Developer Tools"
+      ]
+    },
+    {
+      "storefront_name": "Simple Mode",
+      "repo_url": "https://github.com/josegonzalez/minui-simple-mode-pak",
+      "categories": [
+        "Miscellaneous Tools"
+      ]
+    },
+    {
+      "storefront_name": "Artwork Scraper",
+      "repo_url": "https://github.com/josegonzalez/minui-artwork-scraper-pak",
+      "categories": [
+        "ROM Management",
+        "Media"
+      ]
+    },
+    {
+      "storefront_name": "Random Game",
+      "repo_url": "https://github.com/josegonzalez/minui-random-game-pak",
+      "categories": [
+        "Miscellaneous Tools"
+      ]
+    },
+    {
+      "storefront_name": "PICO-8",
+      "repo_url": "https://github.com/josegonzalez/minui-pico-8-pak",
+      "categories": [
+        "Emulators"
+      ]
+    },
+    {
+      "storefront_name": "Nintendo DS (DraStic)",
+      "repo_url": "https://github.com/josegonzalez/minui-nintendo-ds-pak",
+      "categories": [
+        "Emulators"
+      ]
+    },
+    {
+      "storefront_name": "Nintendo 64 (mupen64plus)",
+      "repo_url": "https://github.com/josegonzalez/minui-n64-pak",
+      "categories": [
+        "Emulators"
+      ]
+    },
+    {
+      "storefront_name": "Dreamcast (Flycast)",
+      "repo_url": "https://github.com/josegonzalez/minui-dreamcast-pak",
+      "categories": [
+        "Emulators"
+      ]
+    },
+    {
+      "storefront_name": "Moonlight",
+      "repo_url": "https://github.com/josegonzalez/trimui-brick-moonlight-pak",
+      "categories": [
+        "Streaming Game Clients"
+      ]
+    },
+    {
+      "storefront_name": "Media Player",
+      "repo_url": "https://github.com/josegonzalez/trimui-brick-media-player-pak",
+      "categories": [
+        "Media"
+      ]
+    },
+    {
+      "storefront_name": "Gallery Pak",
+      "repo_url": "https://github.com/josegonzalez/minui-gallery-pak",
+      "categories": [
+        "Media"
+      ]
+    },
+    {
+      "storefront_name": "Function Key Editor",
+      "repo_url": "https://github.com/josegonzalez/trimui-brick-fn-editor-pak",
+      "categories": [
+        "Customization"
+      ]
+    },
+    {
+      "storefront_name": "Theme Manager",
+      "repo_url": "https://github.com/Leviathanium/NextUI-Theme-Manager",
+      "categories": [
+        "Customization"
+      ]
+    },
+    {
+      "storefront_name": "Portmaster",
+      "repo_url": "https://github.com/ben16w/minui-portmaster",
+      "categories": [
+        "Emulators",
+        "Ports"
+      ],
+      "large_pak": true
+    },
+    {
+      "storefront_name": "PPSSPP",
+      "repo_url": "https://github.com/ben16w/minui-psp",
+      "categories": [
+        "Emulators"
+      ]
+    },
+    {
+      "storefront_name": "Cloud Backups",
+      "repo_url": "https://github.com/ben16w/minui-cloud-backups",
+      "categories": [
+        "File Management"
+      ]
+    },
+    {
+      "storefront_name": "Favorites",
+      "repo_url": "https://github.com/ben16w/minui-favorites",
+      "categories": [
+        "ROM Management"
+      ]
+    },
+    {
+      "storefront_name": "Tailscale",
+      "repo_url": "https://github.com/ben16w/minui-tailscale",
+      "categories": [
+        "Developer Tools",
+        "Miscellaneous Tools"
+      ]
+    },
+    {
+      "storefront_name": "Over The Air Updater",
+      "repo_url": "https://github.com/LanderN/nextui-updater-pak",
+      "categories": [
+        "System"
+      ]
+    },
+    {
+      "storefront_name": "Search Pak",
+      "repo_url": "https://github.com/laesetuc/minui-search-pak",
+      "categories": [
+        "ROM Management"
+      ]
+    }
+  ]
+}

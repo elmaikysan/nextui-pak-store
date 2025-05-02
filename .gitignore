@@ -1,0 +1,14 @@
+/.idea/
+/*.iml
+*.log
+/.device_logs/
+/pak-store.db
+/pak-store
+/storefront.json
+/bin/tg5040/minui-keyboard
+/bin/tg5040/minui-list
+/bin/tg5040/minui-presenter
+/certs/certificates.crt
+/data/systems-mapping.json
+.DS_Store
+**/.DS_Store
