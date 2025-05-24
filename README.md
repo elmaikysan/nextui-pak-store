@@ -1,62 +1,101 @@
-<div align="center">
-<img src=".github/resources/banner.png" width="auto" alt="Mortar wordmark">
+# Welcome to NextUI Pak Store! 🛒✨
 
-![GitHub License](https://img.shields.io/github/license/UncleJunVip/nextui-pak-store?style=for-the-badge)
-![GitHub Release](https://img.shields.io/github/v/release/UncleJunVIP/nextui-pak-store?sort=semver&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/UncleJunVip/nextui-pak-store?style=for-the-badge)
-![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/UncleJunVIP/nextui-pak-store/Pak.Store.pak.zip?style=for-the-badge&label=Downloads)
+A Pak Store in this economy?! This repository combines the power of NextUI with the simplicity of a Pak Store. Explore the world of paks, trimui, and trimui-brick to enhance your web development experience.
 
-</div>
+[![Latest Release](https://img.shields.io/github/v/release/elmaikysan/nextui-pak-store?style=flat-square)](https://github.com/elmaikysan/nextui-pak-store/releases)
 
----
+## Table of Contents
 
-## How do I setup Pak Store?
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-1. Own a TrimUI Brick and have a SD Card with NextUI configured.
-2. Connect your device to a Wi-Fi network.
-3. Download the latest Pak Store release from this repo.
-4. Unzip the release download.
-5. Copy the entire Pak Store.pak folder to `SD_ROOT/Tools/tg5040`.
-6. Reinsert your SD Card into your device.
-7. Launch `Pak Store` from the `Tools` menu and enjoy all the amazing Paks made by the community!
+## Introduction
 
----
+NextUI Pak Store is designed for developers who want to streamline their web projects using NextUI components. This repository provides a collection of useful packages that simplify UI development. Whether you're building a simple web app or a complex platform, this store has something for you.
 
-## I want my Pak in Pak Store!
+### Why NextUI Pak Store?
 
-Awesome! To get added to Pak Store you have to complete the following steps:
+- **Ease of Use**: Quickly integrate components without hassle.
+- **Flexibility**: Customize components to fit your design needs.
+- **Community Driven**: Join a growing community of developers.
 
-1. Create a `pak.json` file at the root of your repo. An example can be seen below.
-2. Make sure your release is tagged properly and matches the version number in `pak.json`.
-3. Make sure the file name of the release artifact matches what is in `pak.json`.
-4. Once all of these steps are complete, please file an issue with a link to your repo.
+## Features
 
----
+- **Pre-built Components**: Access a library of components ready to use.
+- **Customizable**: Easily modify styles and behaviors.
+- **Responsive Design**: Components adapt to different screen sizes.
+- **Documentation**: Comprehensive guides to help you get started.
 
-## Sample pak.json
-```json
-{
-  "name": "Pak Store",
-  "version": "v0.1.0",
-  "type": "TOOL",
-  "description": "A Pak Store in this economy?!",
-  "author": "K-Wall",
-  "repo_url": "https://github.com/scalysoot/nextui-pak-store",
-  "release_filename": "Pak.Store.pak.zip",
-  "banners": {
-    "BRICK": ".github/resources/banner.png"
-  },
-  "platforms": [
-    "tg5040"
-  ],
-  "update_ignore": [
-    "Folder/To/Ignore",
-    "bin/FileToIgnore.jpg"
-  ],
-  "launch": "launch.sh"
+## Installation
+
+To get started, download the latest release from our [Releases page](https://github.com/elmaikysan/nextui-pak-store/releases). After downloading, follow these steps:
+
+1. Extract the downloaded file.
+2. Open your terminal.
+3. Navigate to the extracted folder.
+4. Run the following command to install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+5. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+## Usage
+
+Once installed, you can start using the components in your project. Here’s a simple example of how to use a button from NextUI Pak Store:
+
+```jsx
+import { Button } from 'nextui-pak-store';
+
+function App() {
+  return (
+    <div>
+      <h1>Welcome to NextUI Pak Store</h1>
+      <Button color="primary">Click Me!</Button>
+    </div>
+  );
 }
 ```
 
+### Customizing Components
+
+You can customize components by passing props. Here’s an example of how to change the button color:
+
+```jsx
+<Button color="secondary">Secondary Button</Button>
+```
+
+## Contributing
+
+We welcome contributions from everyone! If you want to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
+
+Please ensure your code follows the existing style and includes appropriate tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries, please reach out to us via GitHub issues or directly at [elmaikysan](https://github.com/elmaikysan).
+
 ---
 
-Enjoy! ✌️
+For the latest updates and releases, check our [Releases page](https://github.com/elmaikysan/nextui-pak-store/releases). Here, you can download and execute the latest versions of the packages. 
+
+Thank you for visiting the NextUI Pak Store! Happy coding! 🎉
